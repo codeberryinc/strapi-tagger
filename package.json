@@ -65,9 +65,9 @@
     "kind": "plugin",
     "name": "tagger",
     "displayName": "Tagger",
-    "description": "Add tags to a Strapi collection"
+    "description": "A powerful and flexible tagging system for Strapi"
   },
-  "name": "tagger",
+  "name": "@codeberry/tagger",
   "description": "A powerful and flexible tagging system for Strapi",
   "license": "MIT",
   "author": "Simeon Iliev <simeon@codeberry.io>"
