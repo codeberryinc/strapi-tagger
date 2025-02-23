@@ -1,6 +1,27 @@
 {
   "version": "1.0.0",
-  "keywords": [],
+  "keywords": [
+    "strapi",
+    "strapi-plugin",
+    "tags",
+    "tagging",
+    "tag system",
+    "custom fields",
+    "strapi custom field",
+    "tag input",
+    "auto-suggest",
+    "autocomplete",
+    "content management",
+    "strapi cms",
+    "headless cms",
+    "strapi v5",
+    "strapi v5 plugin",
+    "tag manager",
+    "taxonomy",
+    "categories",
+    "metadata",
+    "seo"
+  ],
   "type": "commonjs",
   "repository": {
     "type": "git",
